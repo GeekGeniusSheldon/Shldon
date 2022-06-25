@@ -27,7 +27,7 @@ proxy-providers:
   Sheldon:
     type: http
 # 订阅地址
-    url: https://raw.githubusercontent.com/GeekGeniusSheldon/Shldon/main/1.yaml
+    url: https://raw.githubusercontent.com/GeekGeniusSheldon/Shldon/main/1.txt
     interval: 3600
     path: ./My/1.yaml
     health-check:
